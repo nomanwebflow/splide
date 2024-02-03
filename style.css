@@ -1,0 +1,9 @@
+.filters-arrow-next:hover .filters-arrow-svg,
+.filters-arrow-prev:hover .filters-arrow-svg {
+    background-color: var(--purple);
+    color: var(--white);
+  }
+  
+  .is-filter-arrow-disabled {
+    display: none;
+  }
